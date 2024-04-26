@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="startButton" type="id" />
+    <item name="feedButton" type="id" />
+    <item name="playTextView2nd" type="id">I'm feeling down</item>
+    <item name="cleanButton" type="id" />
+    <item name="cleanTextView3rd" type="id">I am dirty.</item>
+    <item name="feedTextView4th" type="id">Feed me!</item>
+</resources>
